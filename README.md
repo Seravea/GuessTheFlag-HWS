@@ -8,6 +8,6 @@ what is include ?
 - The game can restart when 12 answers asked
 - Score show on the screen and with an alert
 - Design for all Apple mobile screen
-- Design with RGB color take on colorant.co
+- Design with RGB color take on colorhunt.co
 
 If you have some questions ask me, or some advices, I'm happy to hear you :)
