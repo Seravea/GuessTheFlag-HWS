@@ -10,4 +10,4 @@ what is include ?
 - Design for all Apple mobile screen
 - Design with RGB color take on colorant.co
 
-If you have some questions ask me, or some advices, I'm glade to hear you :)
+If you have some questions ask me, or some advices, I'm happy to hear you :)
